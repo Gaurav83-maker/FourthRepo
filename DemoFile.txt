@@ -4,4 +4,9 @@ sdfsdfsd
 This is sample demo file.
 
 this is the second line added.
+<<<<<<< HEAD
+>>>>>>> main
+=======
+
+this is third line added for the merge sample testing.
 >>>>>>> main
