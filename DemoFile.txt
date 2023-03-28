@@ -9,4 +9,9 @@ this is the second line added.
 =======
 
 this is third line added for the merge sample testing.
+<<<<<<< HEAD
+>>>>>>> main
+=======
+
+adding the final line
 >>>>>>> main
